@@ -1,0 +1,1 @@
+from posnnet.models.general_model import GeneralModel
