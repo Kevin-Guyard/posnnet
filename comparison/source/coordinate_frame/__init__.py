@@ -1,0 +1,1 @@
+from comparison.source.coordinate_frame.coordinate_frame_manager import CoordinateFrameManager
